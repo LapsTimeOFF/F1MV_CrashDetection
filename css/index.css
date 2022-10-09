@@ -1,0 +1,12 @@
+.driver {
+    width: 100%;
+}
+
+.not-ok {
+    background-color: lightcoral;
+    opacity: 1;
+}
+
+.ok {
+    opacity: 0;
+}

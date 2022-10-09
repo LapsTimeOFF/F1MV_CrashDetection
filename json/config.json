@@ -1,0 +1,50 @@
+{
+    "F1MV": {
+        "host": "192.168.1.46",
+        "port": 10101
+    },
+    "DriverList": {
+        "Verstappen": "1",
+        "Ricciardo": "3",
+        "Norris": "4",
+        "Vettel": "5",
+        "Latifi": "6",
+        "Gasly": "10",
+        "Pérez": "11",
+        "Alonso": "14",
+        "Leclerc": "16",
+        "Stroll": "18",
+        "Magnussen": "20",
+        "Tsunoda": "22",
+        "Albon": "23",
+        "Zhou": "24",
+        "Ocon": "31",
+        "Hamilton": "44",
+        "Schumacher": "47",
+        "Sainz": "55",
+        "Russell": "63",
+        "Bottas": "77"
+    },
+    "DriverName": [
+        "Verstappen",
+        "Ricciardo",
+        "Norris",
+        "Vettel",
+        "Latifi",
+        "Gasly",
+        "Pérez",
+        "Alonso",
+        "Leclerc",
+        "Stroll",
+        "Magnussen",
+        "Tsunoda",
+        "Albon",
+        "Zhou",
+        "Ocon",
+        "Hamilton",
+        "Schumacher",
+        "Sainz",
+        "Russell",
+        "Bottas"
+    ]
+}
